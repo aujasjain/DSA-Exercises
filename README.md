@@ -1,1 +1,1 @@
-My course has some interesting DSA exercises and questions that we have to write in OCaml, so just putting them out here.
+All this is in OCaml because my course is using OCaml.
